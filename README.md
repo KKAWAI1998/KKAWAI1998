@@ -1,8 +1,7 @@
 <!-- 使用言語割合グラフ -->
+<!-- 言語使用割合（円グラフ風） -->
 <p align="left">
-  <a href="https://github.com/KKAWAI1998">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKAWAI1998&layout=compact&langs_count=8&hide_title=true" alt="Top Langs" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KKAWAI1998&theme=default" />
 </p>
 
 
