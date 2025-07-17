@@ -6,7 +6,6 @@
 </p>
 
 
-
 <p align="left">
   <a href="https://github.com/KKAWAI1998">
     <img height="20" src="https://komarev.com/ghpvc/?username=KKAWAI1998" />
