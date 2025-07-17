@@ -1,11 +1,6 @@
 <!-- 使用言語割合グラフ -->
 <!-- 言語使用割合（円グラフ風） -->
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KKAWAI1998&theme=dracula"
-       alt="Most used programming languages by commit" />
-</p>
-
-<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KKAWAI1998&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KKAWAI1998&theme=dracula" />
 </p>
