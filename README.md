@@ -1,7 +1,7 @@
 <!-- 使用言語割合グラフ -->
 <!-- 言語使用割合（円グラフ風） -->
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KKAWAI1998&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KKAWAI1998&theme=dracula" />
 </p>
 
 
