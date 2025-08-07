@@ -3,9 +3,10 @@
 
 <p align="center">
   <!-- 言語の割合 -->
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KKAWAI1998&theme=dracula" />
-  <!-- コードサイズ比率 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/lines-of-code?username=KKAWAI1998&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KKAWAI1998&theme=dracula" />
+
 </p>
 
 ---
