@@ -12,37 +12,23 @@
 ---
 
 <!-- 🛠 使用言語 & フレームワーク（SkillIcons形式） -->
-### 💻 技術スタック（自己申告）
+### 使用言語
 
-#### 🧠 Programming Languages
+####  Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,latex,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,java,latex,html,css,js" />
 </p>
 
-#### 🧰 Libraries / Frameworks
+#### Libraries / Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react,vue,nodejs,express,bootstrap,tailwind" />
 </p>
 
-#### 💻 Platforms / OS
+#### Platforms / OS
 <p>
   <img src="https://skillicons.dev/icons?i=linux,windows,github,git" />
 </p>
 
-#### 🛠 Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,docker,figma,unity,arduino" />
-</p>
-
-#### 🧪 Softwares
-<p>
-  <img src="https://skillicons.dev/icons?i=blender,photoshop,aftereffects" />
-</p>
-
-#### 🪄 Communication / CMS
-<p>
-  <img src="https://skillicons.dev/icons?i=discord,slack,notion,wordpress" />
-</p>
 
 ---
 
