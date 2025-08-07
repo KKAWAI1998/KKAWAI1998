@@ -72,6 +72,37 @@
 </p>
 
 
+### 🧠 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cpp,go,python,matlab,latex" />
+</p>
+
+### 🧰 Library & Framework
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,next,flask,fastapi,django,nodejs,express,bootstrap,tailwind" />
+</p>
+
+### 💻 Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,github,git" />
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio,figma,unity,arduino" />
+</p>
+
+### 🧪 Softwares
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,photoshop,aftereffects" />
+</p>
+
+### 🪄 Applications
+<p>
+  <img src="https://skillicons.dev/icons?i=discord,slack,notion,wordpress" />
+</p>
+
+
 <!-- GitHub フォローのみ -->
 <p align="center">
   <a href="https://github.com/KKAWAI1998">
