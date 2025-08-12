@@ -16,7 +16,7 @@
 
 ####  Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,java,latex,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,java,fortran,latex,html,css,js" />
 </p>
 
 #### Libraries / Frameworks
